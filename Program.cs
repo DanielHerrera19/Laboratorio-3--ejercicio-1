@@ -60,7 +60,7 @@ namespace Laboratorio_3__ejercicio_1
                     break;
             }
             Console.WriteLine("El pago es: " + pago);
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
